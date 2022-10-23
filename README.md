@@ -4,8 +4,8 @@
 
 Наименование  | Описание | Стек | 
 ------- | --------  | --------  |
-[Выявление перспективных компьютерных игр](https://github.com/KasyanovK/works/tree/main/Games)   | Текст     |           |
-Текст   | Текст     |           |
+[Выявление перспективных компьютерных игр](https://github.com/KasyanovK/works/tree/main/Games)   | Текст     |Pandas, Matplotlib, Plotly, Scipy |
+[A/A/B эксперимент](https://github.com/KasyanovK/works/tree/main/abtest)   | Текст     | Pandas, Seaborn, Scipy, Math, Plotly          |
 
 [Выявление перспективных компьютерных игр](https://github.com/KasyanovK/works/tree/main/Games) - Pandas, Matplotlib, Plotly, Scipy;<br>
 [A/A/B эксперимент](https://github.com/KasyanovK/works/tree/main/abtest) - Pandas, Seaborn, Scipy, Math, Plotly;<br>
